@@ -14,6 +14,7 @@ User-Friendly Interface: Provides an intuitive command-line interface for user i
 
 ## Installation
 1. Clone the repository:
+   
 ``` git clone https://github.com/K-Boomika/Pitcher-Game.git```
 
 ``` cd Pitcher-Game```
